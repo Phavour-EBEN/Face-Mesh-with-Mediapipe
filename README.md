@@ -24,7 +24,7 @@ Follow the instructions below to run the project.
 
 ### Running the Face Mesh
 ```bash
-python face_mesh.py
+face.py
 ```
 
 ## Contributing
