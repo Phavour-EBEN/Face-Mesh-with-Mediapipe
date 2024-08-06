@@ -48,5 +48,3 @@ Email - [ainooebenezer05.com](mailto:your.email@example.com)
 - Special thanks to [OpenCV](https://opencv.org/) for the image processing tools.
 
 ---
-
-Feel free to add any other sections or details that you think are necessary.
